@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591824358268",
+    "firebase_url": "https://klerart.firebaseio.com",
+    "project_id": "klerart",
+    "storage_bucket": "klerart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591824358268:android:dc0b7960f51707d1ab72f9",
+        "android_client_info": {
+          "package_name": "com.exxample.flutter_ax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591824358268-8u6asnaral9mp7d99tk2g7ilfu6oc8a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuUq45kCUGwnTSqHo8jmyTpeUP2jBi-pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591824358268-8u6asnaral9mp7d99tk2g7ilfu6oc8a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
